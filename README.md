@@ -31,7 +31,7 @@ Contributions are welcome! Feel free to submit suggestions, bug fixes, or new fe
 ### Authors:
 
 - [João Marcelo Battaglini](https://github.com/JoaoMFB)
-- [Daniel Umeda](https://github.com/DanielUmeda)
+- [Daniel Umeda Kuhn](https://github.com/DanielUmedaKuhn)
 
 ---
 *Note: This project was developed as part of an academic assignment and aims to demonstrate Object-Oriented Programming concepts and game development in Java.*
